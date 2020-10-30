@@ -1,0 +1,237 @@
+D:\Database\DeTaiWin\DeTaiWin\bin\Debug\DeTaiWin.exe.config
+D:\Database\DeTaiWin\DeTaiWin\bin\Debug\DeTaiWin.exe
+D:\Database\DeTaiWin\DeTaiWin\bin\Debug\DeTaiWin.pdb
+D:\Database\DeTaiWin\DeTaiWin\bin\Debug\EntityFramework.dll
+D:\Database\DeTaiWin\DeTaiWin\bin\Debug\EntityFramework.SqlServer.dll
+D:\Database\DeTaiWin\DeTaiWin\bin\Debug\MaterialDesignColors.dll
+D:\Database\DeTaiWin\DeTaiWin\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Database\DeTaiWin\DeTaiWin\bin\Debug\EntityFramework.xml
+D:\Database\DeTaiWin\DeTaiWin\bin\Debug\EntityFramework.SqlServer.xml
+D:\Database\DeTaiWin\DeTaiWin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Database\DeTaiWin\DeTaiWin\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin.csprojResolveAssemblyReference.cache
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\MainWindow.g.cs
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\App.g.cs
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin_MarkupCompile.cache
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin_MarkupCompile.lref
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\App.baml
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\MainWindow.baml
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin.g.resources
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin.Properties.Resources.resources
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin.csproj.GenerateResource.Cache
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin.exe
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin.pdb
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin.Migrations.createdb.resources
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\DangNhap.g.cs
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\w_DanToc.g.cs
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\w_GiaoVien.g.cs
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\w_Home.g.cs
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\w_KetQua.g.cs
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\w_Lop.g.cs
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\w_MonHoc.g.cs
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\w_PhanCong.g.cs
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\w_QueQuan.g.cs
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\w_SinhVien.g.cs
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\w_TonGiao.g.cs
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\DangNhap.baml
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\w_DanToc.baml
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\w_GiaoVien.baml
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\w_Home.baml
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\w_KetQua.baml
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\w_Lop.baml
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\w_MonHoc.baml
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\w_PhanCong.baml
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\w_QueQuan.baml
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\w_SinhVien.baml
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\w_TonGiao.baml
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\DoiMatKhau.g.cs
+D:\Database\DeTaiWin\DeTaiWin\obj\Debug\DoiMatKhau.baml
+D:\DeTaiWin\DeTaiWin\bin\Debug\DeTaiWin.exe.config
+D:\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin.exe
+D:\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin.pdb
+D:\DeTaiWin\DeTaiWin\bin\Debug\DeTaiWin.exe
+D:\DeTaiWin\DeTaiWin\bin\Debug\DeTaiWin.pdb
+D:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.Shared.dll
+D:\DeTaiWin\DeTaiWin\bin\Debug\EntityFramework.dll
+D:\DeTaiWin\DeTaiWin\bin\Debug\EntityFramework.SqlServer.dll
+D:\DeTaiWin\DeTaiWin\bin\Debug\MaterialDesignColors.dll
+D:\DeTaiWin\DeTaiWin\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DeTaiWin\DeTaiWin\bin\Debug\stdole.dll
+D:\DeTaiWin\DeTaiWin\bin\Debug\EntityFramework.xml
+D:\DeTaiWin\DeTaiWin\bin\Debug\EntityFramework.SqlServer.xml
+D:\DeTaiWin\DeTaiWin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\DeTaiWin\DeTaiWin\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin.csprojResolveAssemblyReference.cache
+D:\DeTaiWin\DeTaiWin\obj\Debug\DangNhap.g.cs
+D:\DeTaiWin\DeTaiWin\obj\Debug\DoiMatKhau.g.cs
+D:\DeTaiWin\DeTaiWin\obj\Debug\MainWindow.g.cs
+D:\DeTaiWin\DeTaiWin\obj\Debug\w_DanToc.g.cs
+D:\DeTaiWin\DeTaiWin\obj\Debug\w_GiaoVien.g.cs
+D:\DeTaiWin\DeTaiWin\obj\Debug\w_Home.g.cs
+D:\DeTaiWin\DeTaiWin\obj\Debug\w_KetQua.g.cs
+D:\DeTaiWin\DeTaiWin\obj\Debug\w_Lop.g.cs
+D:\DeTaiWin\DeTaiWin\obj\Debug\w_MonHoc.g.cs
+D:\DeTaiWin\DeTaiWin\obj\Debug\w_PhanCong.g.cs
+D:\DeTaiWin\DeTaiWin\obj\Debug\w_QueQuan.g.cs
+D:\DeTaiWin\DeTaiWin\obj\Debug\w_SinhVien.g.cs
+D:\DeTaiWin\DeTaiWin\obj\Debug\w_TonGiao.g.cs
+D:\DeTaiWin\DeTaiWin\obj\Debug\App.g.cs
+D:\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin_MarkupCompile.cache
+D:\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin_MarkupCompile.lref
+D:\DeTaiWin\DeTaiWin\obj\Debug\App.baml
+D:\DeTaiWin\DeTaiWin\obj\Debug\DangNhap.baml
+D:\DeTaiWin\DeTaiWin\obj\Debug\DoiMatKhau.baml
+D:\DeTaiWin\DeTaiWin\obj\Debug\MainWindow.baml
+D:\DeTaiWin\DeTaiWin\obj\Debug\w_DanToc.baml
+D:\DeTaiWin\DeTaiWin\obj\Debug\w_GiaoVien.baml
+D:\DeTaiWin\DeTaiWin\obj\Debug\w_Home.baml
+D:\DeTaiWin\DeTaiWin\obj\Debug\w_KetQua.baml
+D:\DeTaiWin\DeTaiWin\obj\Debug\w_Lop.baml
+D:\DeTaiWin\DeTaiWin\obj\Debug\w_MonHoc.baml
+D:\DeTaiWin\DeTaiWin\obj\Debug\w_PhanCong.baml
+D:\DeTaiWin\DeTaiWin\obj\Debug\w_QueQuan.baml
+D:\DeTaiWin\DeTaiWin\obj\Debug\w_SinhVien.baml
+D:\DeTaiWin\DeTaiWin\obj\Debug\w_TonGiao.baml
+D:\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin.g.resources
+D:\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin.Migrations.createdb.resources
+D:\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin.Properties.Resources.resources
+D:\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin.csproj.GenerateResource.Cache
+E:\DeTaiWin\DeTaiWin\bin\Debug\DeTaiWin.exe.config
+E:\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin.exe
+E:\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin.pdb
+E:\DeTaiWin\DeTaiWin\bin\Debug\DeTaiWin.exe
+E:\DeTaiWin\DeTaiWin\bin\Debug\DeTaiWin.pdb
+E:\DeTaiWin\DeTaiWin\bin\Debug\EntityFramework.dll
+E:\DeTaiWin\DeTaiWin\bin\Debug\EntityFramework.SqlServer.dll
+E:\DeTaiWin\DeTaiWin\bin\Debug\MaterialDesignColors.dll
+E:\DeTaiWin\DeTaiWin\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\DeTaiWin\DeTaiWin\bin\Debug\stdole.dll
+E:\DeTaiWin\DeTaiWin\bin\Debug\EntityFramework.xml
+E:\DeTaiWin\DeTaiWin\bin\Debug\EntityFramework.SqlServer.xml
+E:\DeTaiWin\DeTaiWin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\DeTaiWin\DeTaiWin\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin.csprojResolveAssemblyReference.cache
+E:\DeTaiWin\DeTaiWin\obj\Debug\DangNhap.g.cs
+E:\DeTaiWin\DeTaiWin\obj\Debug\DoiMatKhau.g.cs
+E:\DeTaiWin\DeTaiWin\obj\Debug\MainWindow.g.cs
+E:\DeTaiWin\DeTaiWin\obj\Debug\w_DanToc.g.cs
+E:\DeTaiWin\DeTaiWin\obj\Debug\w_GiaoVien.g.cs
+E:\DeTaiWin\DeTaiWin\obj\Debug\w_Home.g.cs
+E:\DeTaiWin\DeTaiWin\obj\Debug\w_KetQua.g.cs
+E:\DeTaiWin\DeTaiWin\obj\Debug\w_Lop.g.cs
+E:\DeTaiWin\DeTaiWin\obj\Debug\w_MonHoc.g.cs
+E:\DeTaiWin\DeTaiWin\obj\Debug\w_PhanCong.g.cs
+E:\DeTaiWin\DeTaiWin\obj\Debug\w_QueQuan.g.cs
+E:\DeTaiWin\DeTaiWin\obj\Debug\w_SinhVien.g.cs
+E:\DeTaiWin\DeTaiWin\obj\Debug\w_TonGiao.g.cs
+E:\DeTaiWin\DeTaiWin\obj\Debug\App.g.cs
+E:\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin_MarkupCompile.cache
+E:\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin_MarkupCompile.lref
+E:\DeTaiWin\DeTaiWin\obj\Debug\App.baml
+E:\DeTaiWin\DeTaiWin\obj\Debug\DangNhap.baml
+E:\DeTaiWin\DeTaiWin\obj\Debug\DoiMatKhau.baml
+E:\DeTaiWin\DeTaiWin\obj\Debug\MainWindow.baml
+E:\DeTaiWin\DeTaiWin\obj\Debug\w_DanToc.baml
+E:\DeTaiWin\DeTaiWin\obj\Debug\w_GiaoVien.baml
+E:\DeTaiWin\DeTaiWin\obj\Debug\w_Home.baml
+E:\DeTaiWin\DeTaiWin\obj\Debug\w_KetQua.baml
+E:\DeTaiWin\DeTaiWin\obj\Debug\w_Lop.baml
+E:\DeTaiWin\DeTaiWin\obj\Debug\w_MonHoc.baml
+E:\DeTaiWin\DeTaiWin\obj\Debug\w_PhanCong.baml
+E:\DeTaiWin\DeTaiWin\obj\Debug\w_QueQuan.baml
+E:\DeTaiWin\DeTaiWin\obj\Debug\w_SinhVien.baml
+E:\DeTaiWin\DeTaiWin\obj\Debug\w_TonGiao.baml
+E:\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin.g.resources
+E:\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin.Properties.Resources.resources
+E:\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin.csproj.GenerateResource.Cache
+E:\DeTaiWin\DeTaiWin\obj\Debug\DeTaiWin.Migrations.createdb.resources
+E:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\DeTaiWin\DeTaiWin\bin\Debug\CrystalDecisions.Shared.dll
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\DeTaiWin.exe.config
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\DeTaiWin.exe
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\DeTaiWin.pdb
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\DeTaiWin.exe
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\DeTaiWin.pdb
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\EntityFramework.dll
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\EntityFramework.SqlServer.dll
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\MaterialDesignColors.dll
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\stdole.dll
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\EntityFramework.xml
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\EntityFramework.SqlServer.xml
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\DeTaiWin - Copy\DeTaiWin\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\DeTaiWin.csprojResolveAssemblyReference.cache
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\DangNhap.g.cs
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\DoiMatKhau.g.cs
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\MainWindow.g.cs
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\w_DanToc.g.cs
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\w_GiaoVien.g.cs
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\w_Home.g.cs
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\w_KetQua.g.cs
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\w_Lop.g.cs
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\w_MonHoc.g.cs
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\w_PhanCong.g.cs
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\w_QueQuan.g.cs
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\w_SinhVien.g.cs
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\w_TonGiao.g.cs
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\App.g.cs
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\DeTaiWin_MarkupCompile.cache
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\DeTaiWin_MarkupCompile.lref
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\App.baml
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\DangNhap.baml
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\DoiMatKhau.baml
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\MainWindow.baml
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\w_DanToc.baml
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\w_GiaoVien.baml
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\w_Home.baml
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\w_KetQua.baml
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\w_Lop.baml
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\w_MonHoc.baml
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\w_PhanCong.baml
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\w_QueQuan.baml
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\w_SinhVien.baml
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\w_TonGiao.baml
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\DeTaiWin.g.resources
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\DeTaiWin.Migrations.createdb.resources
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\DeTaiWin.Properties.Resources.resources
+E:\DeTaiWin - Copy\DeTaiWin\obj\Debug\DeTaiWin.csproj.GenerateResource.Cache

@@ -1,0 +1,42 @@
+﻿<UserControl x:Class="DeTaiWin.w_DanToc"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+               xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+     TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     Background="{DynamicResource MaterialDesignPaper}"
+     FontFamily="{DynamicResource MaterialDesignFont}"
+             xmlns:local="clr-namespace:DeTaiWin"
+             mc:Ignorable="d" d:DesignHeight="508" Width="601">
+    <Grid>
+        <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="75*"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="84*"></RowDefinition>
+                <RowDefinition Height="266*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Label Content="QUẢN LÝ DÂN TỘC" FontSize="30" FontStyle="Italic" FontWeight="Bold" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" Height="44" Foreground="Plum" Width="296" Margin="148,22,157,10"/>
+            <Button Grid.Row="1" Grid.Column="0" Name="btThem" Style="{StaticResource MaterialDesignRaisedButton}" Width="110" Background="Plum" ToolTip="Resource name: MaterialDesignRaisedButton" Content="Thêm" Margin="50,16,140,17" Click="btThem_Click"/>
+            <Button Grid.Row="1" Grid.Column="0" Name="btXoa" Style="{StaticResource MaterialDesignRaisedButton}" Width="110" Background="Plum" ToolTip="Resource name: MaterialDesignRaisedButton" Content="Xóa" Grid.ColumnSpan="2" Margin="245,16,246,17" Click="btXoa_Click" />
+            <Button Grid.Row="1" Grid.Column="1" Name="btSua" Style="{StaticResource MaterialDesignRaisedButton}" Width="110" Background="Plum" ToolTip="Resource name: MaterialDesignRaisedButton" Content="Sửa" Margin="141,16,50,17" Click="btSua_Click"/>
+            <TextBox materialDesign:HintAssist.Hint="Mã dân tộc" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Grid.Column="0" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center" Width="150" Name="txtMaDanToc" />
+            <TextBox materialDesign:HintAssist.Hint="Tên dân tộc" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Grid.Column="1" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center" Width="150" Name="txtTenDanToc"/>
+            <DataGrid Name="dtgDanToc" AutoGenerateColumns="False" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="4" Margin="0,0,0,19" SelectionChanged="dtgDanToc_SelectionChanged">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Mã dân tộc" Binding="{Binding MaDanToc}" Width="300"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Tên dân tộc" Binding="{Binding TenDanToc}" Width="301"></DataGridTextColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+    </Grid>
+</UserControl>
